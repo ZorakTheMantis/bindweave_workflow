@@ -2,7 +2,8 @@
 This is a workflow taken from one of Kijai's bindweave preview videos on his Bindweave branch (he posted them in an issue someone opened there)
 Still not optimazed, but hey, it works. 
 
-With the 4 steps lora it takes around 2 minutes for the first run and around 70 seconds after cold start. 
+With Lightx2v's 4 steps lora it takes around 2 minutes for the first run and around 70 seconds after cold start. 
+Also Phantom FusionX and Pusa v1 loras can help produce better outputs.
 
 ## Custom nodes used in the workflow
 https://github.com/kijai/ComfyUI-KJNodes
