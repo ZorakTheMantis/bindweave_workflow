@@ -6,8 +6,11 @@ With the 4 steps lora it takes around 2 minutes for the first run and around 70 
 
 ## Custom nodes used in the workflow
 https://github.com/kijai/ComfyUI-KJNodes
+
 https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
 https://github.com/yolain/ComfyUI-Easy-Use
+
 https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 
 ## Link to Kijai's Bindweave model (fp8_scaled version)
